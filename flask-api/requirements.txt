@@ -1,0 +1,6 @@
+flask
+Flask-Bcrypt
+Flask-JWT-Extended
+Flask-SQLAlchemy
+SQLAlchemy
+Faker
